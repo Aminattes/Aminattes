@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aminattes
+- 👋 Hi, I’m Aminat
 - 👀 I’m interested in PLC programmimg
 - 🌱 I’m currently learning TwinCAT programming
 - 💞️ I’m looking to collaborate on process control design engineering
